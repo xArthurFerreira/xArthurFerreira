@@ -9,7 +9,7 @@ On this page, you will find information about my college studies, professional p
 
 
 
-
+---
 
 ## ⚡ Stats ⚡
 
