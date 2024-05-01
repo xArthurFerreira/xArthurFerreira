@@ -1,4 +1,4 @@
-*Hi, I’m Arthur* 👋
+## Hi, I’m Arthur 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/arthur-ferreira-813885204)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurrferreira___/)
 
@@ -11,7 +11,7 @@ On this page, you will find information about my college studies, professional p
 
 
 
-⚡ Stats ⚡
+## ⚡ Stats ⚡
 
 ![xArthurFerreira GitHub stats](https://github-readme-stats.vercel.app/api?username=xArthurFerreira&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xArthurFerreira&hide_progress=true)
 
