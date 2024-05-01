@@ -11,7 +11,7 @@ On this page, you will find information about my college studies, professional p
 
 ---
 
-## ⚡ Stats ⚡
+## 🚀 Stats 🚀
 
 ![xArthurFerreira GitHub stats](https://github-readme-stats.vercel.app/api?username=xArthurFerreira&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xArthurFerreira&hide_progress=true)
 
